@@ -1,10 +1,10 @@
-# Collaborative Software Devlopment Club
+# Collaborative Software Development Club
 
 ![Collaborative Software Devlopment Club](./profile/logo.png)
 
-## Welcome to Collaborative Software Devlopment Club!
+## Welcome to Collaborative Software Development Club!
 
-Welcome to the Collaborative Software Devlopment Club organization on GitHub, a community of passionate developers.
+Welcome to the Collaborative Software Development Club organization on GitHub, a community of passionate developers.
 
 ## About Us
 
