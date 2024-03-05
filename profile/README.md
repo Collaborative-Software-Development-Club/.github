@@ -14,7 +14,7 @@ Our mission is to create a space where students can come together to collaborate
 
 ### 1. WebSite 
 
-https://csdc.vercel.app
+https://org.osu.edu/csd/
 
 ### 2. Discord Community
 
