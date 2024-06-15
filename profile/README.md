@@ -1,6 +1,6 @@
 # Collaborative Software Development Club
 
-![DiscordLogo](https://github.com/Collaborative-Software-Development-Club/.github/assets/72419437/04e6993a-4284-4b6a-8871-b035ffc4ddf7)
+![GitHub](https://github.com/Collaborative-Software-Development-Club/.github/assets/72419437/40e8a43e-a00d-4659-b586-0ec735344c94)
 
 ## Welcome to Collaborative Software Development Club!
 
