@@ -8,13 +8,13 @@ Welcome to the Collaborative Software Development Club organization on GitHub, a
 
 ## About Us
 
-Our mission is to create a space where students can come together to collaborate on software projects, regardless of their affiliation with the OSU curriculum. Our focus is on offering real-world experience and the opportunity to build portfolios. We will convene weekly meetings where participants can showcase their advancements in ongoing projects, propose new project ideas, and seek assistance when necessary. Although we primarily target CSE and CIS students, we welcome anyone with a background in software development to join us.
+Our mission is to create a space where students can come together to collaborate on software projects, regardless of their affiliation with the OSU curriculum. Our focus is on offering real-world experience and the opportunity to build portfolios. We will convene weekly meetings where participants can showcase their advancements in ongoing projects, work on tasks, and seek assistance when necessary. Although we primarily target CSE and CIS students, we welcome anyone with an interest in software development to join us.
 
 ## Our resources
 
 ### 1. WebSite 
 
-https://org.osu.edu/csd/
+https:/csdclub.tech
 
 ### 2. Discord Community
 
