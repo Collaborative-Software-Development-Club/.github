@@ -14,7 +14,7 @@ Our mission is to create a space where students can come together to collaborate
 
 ### 1. WebSite 
 
-https:/csdclub.tech
+https://csdclub.tech
 
 ### 2. Discord Community
 
